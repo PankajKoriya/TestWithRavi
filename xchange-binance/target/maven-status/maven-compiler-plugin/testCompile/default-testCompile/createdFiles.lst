@@ -1,0 +1,15 @@
+org\knowm\xchange\binance\BinanceExchangeIntegration.class
+org\knowm\xchange\binance\service\trade\TradeServiceIntegration.class
+org\knowm\xchange\binance\AbstractResilienceTest.class
+org\knowm\xchange\binance\BinanceErrorAdapterTest.class
+org\knowm\xchange\binance\ExchangeMetaDataIntegration.class
+org\knowm\xchange\binance\service\marketdata\MarketDataServiceResilienceTest.class
+org\knowm\xchange\binance\service\BinanceBaseServiceTest$1.class
+org\knowm\xchange\binance\service\trade\TradeServiceResilienceTest.class
+org\knowm\xchange\binance\BinanceAdaptersTest.class
+org\knowm\xchange\binance\service\account\AccountServiceTest.class
+org\knowm\xchange\binance\service\account\AccountServiceIntegration.class
+org\knowm\xchange\binance\service\marketdata\MarketDataServiceIntegration.class
+org\knowm\xchange\binance\service\BinanceBaseServiceTest.class
+org\knowm\xchange\binance\us\ExchangeMetaDataIntegration.class
+org\knowm\xchange\binance\us\BinanceUsExchangeIntegration.class
