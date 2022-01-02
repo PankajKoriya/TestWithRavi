@@ -1,0 +1,8 @@
+org.knowm.xchange.binance
+org.knowm.xchange.binance.dto
+org.knowm.xchange.binance.dto.account
+org.knowm.xchange.binance.dto.marketdata
+org.knowm.xchange.binance.dto.meta
+org.knowm.xchange.binance.dto.meta.exchangeinfo
+org.knowm.xchange.binance.dto.trade
+org.knowm.xchange.binance.service
